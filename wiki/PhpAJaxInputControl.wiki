@@ -6,7 +6,7 @@ Represents a control that can be used to display or edit unformatted text in thr
 
 
 = System requirement =
-*  PHP 5.0 and above
+  * PHP 5.0 and above
 
 = Usage =
 
