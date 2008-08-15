@@ -21,6 +21,9 @@ echo $input1->show();
 ?>
 }}}
 
+= Require file =
+  # [http://code.google.com/p/zawgyi/source/browse/trunk/zawgyi/php/binput.php binput.php]
+
 == System requirement for web server ==
   * PHP 5.0 and above
 
