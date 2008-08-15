@@ -28,5 +28,5 @@ echo $input1->show();
   * Javascript enable browser. (See also AboutAjax)
 
 == Authors ==
-Ei Maung: Design, coding, testing
-Kyaw Tun: Design, documentation, testing 
+  # Ei Maung: Design, coding, testing
+  # Kyaw Tun: Design, documentation, testing 
