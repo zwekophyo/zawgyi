@@ -10,10 +10,13 @@ To use the script, just put on the script in HTML header as follow:
 {{{
 <html>
   <head>
-    <script type="text/javascript" src="z251_combined.js">
+    <script type="text/javascript" src="fly.js">
     </script>
   </head>
   <body>
     ....
   </body>
 </html>
+
+= Require file =
+  # [http://code.google.com/p/zawgyi/source/browse/trunk/zawgyi/js/fly.js fly.js]
