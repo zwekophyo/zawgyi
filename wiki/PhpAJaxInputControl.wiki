@@ -3,11 +3,11 @@
 
 = Introduction =
 
-Represents a control that can be used to display or edit unformatted text in three input modes suitable for Burmese script. The keystroke conversion mode are control by 'BurglishMode`. 
+Represents a control that can be used to display or edit unformatted text in three input modes suitable for Burmese script. The keystroke conversion mode are control by BurglishMode. 
 
-= API
+= Description =
 
-Basically this attach javascript file to textarea of HTML input control. 
+Basically this control attach javascript file to textarea of HTML input control.  
 
 
 = Usage example =
@@ -26,3 +26,7 @@ echo $input1->show();
 
 == System requirement for client ==
   * Javascript enable browser. (See also AboutAjax)
+
+== Authors ==
+Ei Maung: Design, coding, testing
+Kyaw Tun: Design, documentation, testing 
