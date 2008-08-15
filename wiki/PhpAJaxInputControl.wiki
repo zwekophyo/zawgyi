@@ -10,9 +10,6 @@ Represents a control that can be used to display or edit unformatted text in thr
 Basically this attach javascript file to textarea of HTML input control. 
 
 
-= System requirement =
-  * PHP 5.0 and above
-
 = Usage example =
 
 {{{
@@ -20,7 +17,12 @@ Basically this attach javascript file to textarea of HTML input control.
 $input1 = new BurmeseInput();
 $input1->BurglishMode = 'Typewriter';
 
-$form->addElement(input1);
+echo $input1->show();
 ?>
-
 }}}
+
+== System requirement for web server ==
+  * PHP 5.0 and above
+
+== System requirement for client ==
+  * Javascript enable browser. (See also AboutAjax)
