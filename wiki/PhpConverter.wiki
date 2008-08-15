@@ -11,3 +11,6 @@ This convertor function convert from one Burmese encoding to another. This conve
 // This convert Unicode 5.1 to Zawgyi encoding
 burmese_converter('your text here', '5.1', 'zawgyi');
 ?>
+
+= Require file =
+  # [http://code.google.com/p/zawgyi/source/browse/trunk/zawgyi/php/converter.php converter.php]
