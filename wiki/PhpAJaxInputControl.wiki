@@ -3,12 +3,24 @@
 
 = Introduction =
 
-Represents a control that can be used to display or edit unformatted text in three input modes suitable for Burmese script. 
+Represents a control that can be used to display or edit unformatted text in three input modes suitable for Burmese script. The keystroke conversion mode are control by 'BurglishMode`. 
+
+= API
+
+Basically this attach javascript file to textarea of HTML input control. 
 
 
 = System requirement =
   * PHP 5.0 and above
 
-= Usage =
+= Usage example =
 
-$input1 = new BurmeseInput()
+{{{
+<?php
+$input1 = new BurmeseInput();
+$input1->BurglishMode = 'Typewriter';
+
+$form->addElement(input1);
+?>
+
+}}}
