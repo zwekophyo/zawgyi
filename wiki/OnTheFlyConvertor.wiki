@@ -17,6 +17,7 @@ To use the script, just put on the script in HTML header as follow:
     ....
   </body>
 </html>
+}}}
 
 = Require file =
   # [http://code.google.com/p/zawgyi/source/browse/trunk/zawgyi/js/fly.js fly.js]
