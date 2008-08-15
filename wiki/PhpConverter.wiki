@@ -1,0 +1,7 @@
+#summary PHP Converter module for various Burmese encoding
+#labels Featured
+
+= Introduction =
+
+This convertor function convert from one Burmese encoding to another. This convertor support standard Unicode 5.1, popular non-standard Zawgyi font. 
+
