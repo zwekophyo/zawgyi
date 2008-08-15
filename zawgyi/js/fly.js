@@ -1,5 +1,5 @@
 // Convert Unicode 5.1 and Zawgyi Myanmar encoded HTML content
-// Copyright (C) Kyaw Tun, Ei Maung 
+// Copyright (C) Kyaw Tun (Zawgyi), Ei Maung 
 
 // This program is free software; you can redistribute it and/or
 // modify it under the terms of the GNU General Public License
@@ -15,7 +15,7 @@
 // along with this program; if not, write to the Free Software
 // Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 
-// This source code is base on the following file from Burglish project
+// This source code is based on the following file from Burglish project
 // (http://burglish.googlecode.com):
 //   1. basic.js
 //   2. lib.js
