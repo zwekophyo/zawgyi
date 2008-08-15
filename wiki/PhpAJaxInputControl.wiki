@@ -2,12 +2,12 @@
 
 = Introduction =
 
-Add your content here.
+Represents a control that can be used to display or edit unformatted text in three input modes suitable for Burmese script. 
 
 
-= Details =
+= System requirement =
+*  PHP 5.0 and above
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+= Usage =
+
+$input1 = new BurmeseInput()
