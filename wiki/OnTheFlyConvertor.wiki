@@ -1,0 +1,19 @@
+#summary Javascript on-the-fly converter from Zawgyi to Unicode 5.1 back and fort
+#labels Featured
+
+= Introduction =
+
+A javascript convertor for bidirectional conversion of Zawgyi to Unicode 5.1 font is available from Burglish today. It is useful for a web site that support both standard Unicode 5.1 and non-standard Zawgyi fonts. The original content can be either of Zawgyi or Unicode 5.1. It is designed to very easy to use. 
+
+= Usage =
+To use the script, just put on the script in HTML header as follow: 
+{{{
+<html>
+  <head>
+    <script type="text/javascript" src="z251_combined.js">
+    </script>
+  </head>
+  <body>
+    ....
+  </body>
+</html>
