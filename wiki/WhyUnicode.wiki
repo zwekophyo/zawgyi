@@ -6,3 +6,5 @@ The following table shows the differences in language support between Zawgyi-One
 
 || *Unicode Table* || *Zawgyi Table* ||
 || [http://upload.wikimedia.org/wikipedia/my/thumb/3/31/Unicode_character_map_%28color%29.png/395px-Unicode_character_map_%28color%29.png] ||[http://upload.wikimedia.org/wikipedia/my/thumb/e/e7/Zawgyi_character_map_%28color%29.png/395px-Zawgyi_character_map_%28color%29.png] ||
+
+|| [http://wikimyanmar.org/wiki/images/c/cf/FontMapLegant.jpg] ||
