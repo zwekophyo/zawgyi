@@ -4,8 +4,5 @@ Unicode is a standard that defines how text should be saved into data and how it
 
 The following table shows the differences in language support between Zawgyi-One and Unicode fonts.
 
-*Unicode Table*
-[http://my.wikipedia.org/wiki/Image:Unicode_character_map_(color).png]
-
-*Zawgyi Table*
-[http://my.wikipedia.org/wiki/Image:Zawgyi_character_map_(color).png]
+|| *Unicode Table* || *Zawgyi Table* ||
+|| [http://upload.wikimedia.org/wikipedia/my/thumb/3/31/Unicode_character_map_%28color%29.png/395px-Unicode_character_map_%28color%29.png] ||[http://upload.wikimedia.org/wikipedia/my/thumb/e/e7/Zawgyi_character_map_%28color%29.png/395px-Zawgyi_character_map_%28color%29.png] ||
