@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary Why we need to change Unicode 5.1?
 
 Unicode is a standard that defines how text should be saved into data and how it is read and write. Almost every script in the world, including Myanmar is defined in the Unicode Standard, which is carefully designed by experts of the field around the world. The result is an international standard supported by virtually all the latest platforms not only in operating systems like Windows, Mac, and Linux but also in mobile phones and many electronic devices. The Unicode Standard is the most well-known encoding to support the largest number of scripts/languages in a single page of code. More information is available at [http://www.unicode.org/standard/WhatIsUnicode.html Unicode.org]. 
 
