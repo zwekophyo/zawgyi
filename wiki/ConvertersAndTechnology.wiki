@@ -41,3 +41,5 @@ See also [http://tech.slashdot.org/article.pl?no_d2=1&sid=08/08/16/1552227 ECMAS
 == ICU ==
 
 [http://www.icu-project.org/ International Components for Unicode]] is a mature, widely used set of C/C++ and Java libraries providing Unicode and Globalization support for software applications. ICU is widely portable and gives applications the same results on all platforms and between C/C++ and Java software. PHP wraper module for ICU can be found [http://au2.php.net/intl ICU here]. However, due to its focus on Encoding version rather then re-ordering of text data, it is also not very application here. 
+
+As always [http://en.wikipedia.org/wiki/International_Components_for_Unicode wikipedia discription] are more readable and has balance opinion. 
