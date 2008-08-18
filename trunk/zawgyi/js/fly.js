@@ -1,5 +1,4 @@
 // Convert Unicode 5.1 and Zawgyi Myanmar encoded HTML content
-// Copyright (C) Kyaw Tun (Zawgyi), Ei Maung 
 
 // This program is free software; you can redistribute it and/or
 // modify it under the terms of the GNU General Public License
