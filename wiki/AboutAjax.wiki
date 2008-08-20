@@ -1,5 +1,4 @@
 #summary AJAX in Zawgyi controls
-#labels Featured
 
 = Introduction =
 
