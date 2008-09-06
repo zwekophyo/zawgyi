@@ -3,5 +3,5 @@
 
 Myanmar Forum that run on Google Cloud Server using Python Google App Engine.
 
-Fofou fork: [http://github.com/okisan/fofou/tree/master Fofou Forum for Myanmar Web Developer]
-Demo: [http://zawgyi-dev2.appspot.com ZawGyi Forum Test]
+  * Fofou fork: [http://github.com/okisan/fofou/tree/master Fofou Forum for Myanmar Web Developer]
+  * Demo: [http://zawgyi-dev2.appspot.com ZawGyi Forum Test]
