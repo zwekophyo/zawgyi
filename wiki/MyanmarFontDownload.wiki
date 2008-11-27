@@ -1,0 +1,14 @@
+#summary Download Myanmar Unicode fonts
+
+
+FontUnicode 5.1FileLicenseParabaikComplientParabaik20080421.ttfOFL, GPLParabaik SansComplientParabaikSans.ttfOFL, GPLMyanmar3ComplientMyanmar3.ttfLGPLZawGyi-One
+NoZawgyiOne20071230.ttfCopyLeftArial ZawGyiNoarialzawgyi20071230.ttf CopyLeftPadaukComplientPadauk.ttf, Padauk-Bold.ttf OFL
+Parabaik font is provided by Solveware Solution. Myanmar3 font is yet to be released by Myanmar Unicode and NLP Research Center, a non-profit organization by Myanmar Computer Federation. Zawgyi is mainly created by Alpha Computer. Padauk is properties of SIL. 
+Keyboard Layout Map Download
+Description FileLicenseKeyboard Layout For Parabaik FontNormal Alt Shift Alt+Shift  Keyboard Layout For ZawGyi Fontlayout MS Keyboard Layout Mapper For ZawGyi FontZawgyiKLC.zip 
+Myanmar Input/Typing Tools Download
+Description FileLicenseMyanmar OpenOfficeOOo_2.4_Win32Intel_install.exe (79.7 MB)LGPL v.2.1OpenOffice Myanmar language packOOo_2.4_Win32Intel_langpack_my-MM.exe (28.5 MB)LGPL v.2.1Myanmar Package from Burglish (recommanded download)Myanmar Package 1.3.exeGPL v2Waitzar - Romaized Myanmar Input Systemwaitzar_release_1.5.zipApache License 2.0Prince Ka Naung - Unify Converter EngineKaNaungConverter_Window_Build200508.zipLGPL v.2.1
+Note: Myanmar Package from Burglish contains all you need to work with Myanmar language input including fonts. 
+Before using the materials, please read their licenses. After clicking the above download you agree our Terms of Use. 
+All legally free downloads related to Myanmar language input systems should be able to find here. If you think something is mission, please Contact Us.
+For publisher, if you want to appear your font here, please contact to info@zawgyi.org. We are open source software developers and maintain neutral view on adoption of Myanmar fonts.
