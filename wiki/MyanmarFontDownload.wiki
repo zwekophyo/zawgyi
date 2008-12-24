@@ -2,12 +2,11 @@
 
 
 || Font || Unicode 5.1 || File || License || 
-|| Parabaik || Complient || Parabaik20080421.ttfO || FL, GPL || 
-|| Parabaik Sans || Complient || ParabaikSans.ttfO || FL, GPL ||
-|| Myanmar3 ||Complient || Myanmar3.ttf || LGPL || 
-|| ZawGyi-One (Alpha Info-Tech version, recommended) || No || [[http://mynsoft.co.cc/zawgyi/cmt/misc/ZawgyiOne20071230.ttf ZawgyiOne20071230.ttf] || CopyLeft ||
-|| Arial ZawGyi (Platnet version) || No || arialzawgyi20071230.ttf || CopyLeft || 
-|| Padauk || Complient || Padauk.ttf, Padauk-Bold.ttf || OFL ||
+|| Parabaik || Complient || [http://mynsoft.co.cc/zawgyi/cmt/misc/Parabaik20080421.ttf Parabaik20080421.ttf] || [http://mynsoft.co.cc/zawgyi/cmt/misc/OFL.txt OFL], [http://mynsoft.co.cc/zawgyi/cmt/misc/gpl.txt GPL] || 
+|| Parabaik Sans || Complient || ParabaikSans.ttf || [http://mynsoft.co.cc/zawgyi/cmt/misc/OFL.txt OFL], [http://mynsoft.co.cc/zawgyi/cmt/misc/gpl.txt GPL]||
+|| Myanmar3 ||Complient || Myanmar3.ttf || [http://www.gnu.org/licenses/old-licenses/gpl-2.0.html LGPL] || 
+|| ZawGyi-One || No || [http://mynsoft.co.cc/zawgyi/cmt/misc/ZawgyiOne20071230.ttf ZawgyiOne20071230.ttf] || Copy Left || 
+|| Padauk || Complient || [http://mynsoft.co.cc/zawgyi/cmt/misc/Padauk.ttf Padauk.ttf], [http://mynsoft.co.cc/zawgyi/cmt/misc/Padauk-Bold.ttf Padauk-Bold.ttf] || [http://mynsoft.co.cc/zawgyi/cmt/misc/OFL.txt OFL] ||
 
 Parabaik font is provided by Solveware Solution. Myanmar3 font is yet to be released by Myanmar Unicode and NLP Research Center, a non-profit organization by Myanmar Computer Federation. Zawgyi is mainly created by Alpha Computer. Padauk is properties of SIL. 
 Keyboard Layout Map Download
