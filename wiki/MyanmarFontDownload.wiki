@@ -1,8 +1,14 @@
 #summary Download Myanmar Unicode fonts
 
 
-FontUnicode 5.1FileLicenseParabaikComplientParabaik20080421.ttfOFL, GPLParabaik SansComplientParabaikSans.ttfOFL, GPLMyanmar3ComplientMyanmar3.ttfLGPLZawGyi-One
-NoZawgyiOne20071230.ttfCopyLeftArial ZawGyiNoarialzawgyi20071230.ttf CopyLeftPadaukComplientPadauk.ttf, Padauk-Bold.ttf OFL
+|| Font || Unicode 5.1 || File || License || 
+|| Parabaik || Complient || Parabaik20080421.ttfO || FL, GPL || 
+|| Parabaik Sans || Complient || ParabaikSans.ttfO || FL, GPL ||
+|| Myanmar3 ||Complient || Myanmar3.ttf || LGPL || 
+|| ZawGyi-One (Alpha Info-Tech version, recommended) || No || [[http://mynsoft.co.cc/zawgyi/cmt/misc/ZawgyiOne20071230.ttf ZawgyiOne20071230.ttf] || CopyLeft ||
+|| Arial ZawGyi (Platnet version) || No || arialzawgyi20071230.ttf || CopyLeft || 
+|| Padauk || Complient || Padauk.ttf, Padauk-Bold.ttf || OFL ||
+
 Parabaik font is provided by Solveware Solution. Myanmar3 font is yet to be released by Myanmar Unicode and NLP Research Center, a non-profit organization by Myanmar Computer Federation. Zawgyi is mainly created by Alpha Computer. Padauk is properties of SIL. 
 Keyboard Layout Map Download
 Description FileLicenseKeyboard Layout For Parabaik FontNormal Alt Shift Alt+Shift  Keyboard Layout For ZawGyi Fontlayout MS Keyboard Layout Mapper For ZawGyi FontZawgyiKLC.zip 
