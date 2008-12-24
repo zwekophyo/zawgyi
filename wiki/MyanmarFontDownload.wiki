@@ -17,7 +17,6 @@ Parabaik font is provided by Solveware Solution. Myanmar3 font is released by M
 || Waitzar - Romaized Myanmar Input System || [http://waitzar.googlecode.com/files/waitzar_release_1.6.zip waitzar_release_1.6.zip] || [http://www.apache.org/licenses/LICENSE-2.0 Apache License 2.0] || 
 || Myanmar OpenOffice|| [http://mynsoft.co.cc/zawgyi/cmt/misc/OOo_2.4_Win32Intel_install.exe OOo_2.4_Win32Intel_install.exe 79.7 MB] || [http://www.gnu.org/licenses/lgpl-2.1.html LGPL v.2.1] || 
 || OpenOffice Myanmar language pack || [http://mynsoft.co.cc/zawgyi/cmt/misc/OOo_2.4.0_080319_Win32Intel_langpack_my-MM.exe OOo_2.4.0_080319_Win32Intel_langpack_my-MM.exe 28.5 MB] ||[http://www.gnu.org/licenses/lgpl-2.1.html LGPL v.2.1] ||
-|| Myanmar Package from Burglish || Myanmar Package 1.3.exe || GPL v2 || 
 || Prince Ka Naung - Unify Converter Engine || [http://kanaung.googlecode.com/files/KaNaungConverter_Window_Build200508.zip KaNaungConverter_Window_Build200508.zip] || [http://www.gnu.org/licenses/lgpl-2.1.html LGPL v.2.1] ||
 
 *Before using the materials, please read their licenses. After clicking the above download you agree our Terms of Use. *
