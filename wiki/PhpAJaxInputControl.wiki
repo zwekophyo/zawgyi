@@ -1,5 +1,4 @@
 #summary PHP Ajax server control for Burmese input
-#labels Featured
 
 = Introduction =
 
