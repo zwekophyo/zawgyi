@@ -1,5 +1,4 @@
 #summary PHP Converter module for various Burmese encoding
-#labels Featured
 
 = Introduction =
 
