@@ -1,5 +1,4 @@
 #summary ZawGyi Myanmar Forum
-#labels Featured
 
 Myanmar Forum that run on Google Cloud Server using Python Google App Engine.
 
