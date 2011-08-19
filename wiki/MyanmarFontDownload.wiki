@@ -6,7 +6,7 @@
 || Parabaik || Complient || [http://mynsoft.co.cc/zawgyi/cmt/misc/Parabaik20080421.ttf Parabaik20080421.ttf] || [http://mynsoft.co.cc/zawgyi/cmt/misc/OFL.txt OFL], [http://mynsoft.co.cc/zawgyi/cmt/misc/gpl.txt GPL] || 
 || Parabaik Sans || Complient || [http://mynsoft.co.cc/zawgyi/cmt/misc/ParabaikSans.ttf ParabaikSans.ttf] || [http://mynsoft.co.cc/zawgyi/cmt/misc/OFL.txt OFL], [http://mynsoft.co.cc/zawgyi/cmt/misc/gpl.txt GPL]||
 || Myanmar3 ||Complient || [http://zawgyi.googlecode.com/files/mm3.ttf mm3.ttf] (latest Unicode 5.1 font) || [http://www.gnu.org/licenses/old-licenses/gpl-2.0.html LGPL] || 
-|| ZawGyi-One || No || [http://mynsoft.co.cc/zawgyi/cmt/misc/ZawgyiOne20071230.ttf ZawgyiOne20071230.ttf] || Copy Left || 
+|| ZawGyi-One || No || [http://zawgyi.googlecode.com/files/ZawgyiOne2008.ttf ZawgyiOne2008.ttf] || Copy Left || 
 || Padauk || Complient || [http://mynsoft.co.cc/zawgyi/cmt/misc/Padauk.ttf Padauk.ttf], [http://mynsoft.co.cc/zawgyi/cmt/misc/Padauk-Bold.ttf Padauk-Bold.ttf] || [http://mynsoft.co.cc/zawgyi/cmt/misc/OFL.txt OFL] ||
 || Myanmar1  || No  || [http://zawgyi.googlecode.com/files/Myanmar1.ttf Myanmar1.ttf] (Old Unicode 4.0 font used in BBC)  || [http://mynsoft.co.cc/zawgyi/cmt/misc/gpl.txt GPL]  ||
 
